@@ -1,0 +1,14 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/gateway": "^0.26.2",
+    "apollo-server": "^2.23.0"
+  }
+}
